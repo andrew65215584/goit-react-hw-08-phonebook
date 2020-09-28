@@ -1,0 +1,31 @@
+.header {
+  background-color: blue;
+  display: flex;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  color: white;
+  margin: 0px;
+}
+
+.log-list {
+  margin-left: auto;
+}
+
+.nav-link {
+  padding: 20px;
+}
+
+.nav-link-item {
+  color: white;
+  text-decoration: none;
+}
+
+.avatar-container {
+  display: flex;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
