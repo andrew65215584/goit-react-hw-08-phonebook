@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[6],{79:function(t,e,n){},88:function(t,e,n){"use strict";n.r(e);var o=n(0),a=n.n(o);n(79);e.default=function(){return a.a.createElement("h1",{className:"title-logandreg"},"\u0414\u043b\u044f \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0438\u0445 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432, \u0432\u043e\u0439\u0434\u0438\u0442\u0435!")}}}]);
+//# sourceMappingURL=6.a1676f87.chunk.js.map
