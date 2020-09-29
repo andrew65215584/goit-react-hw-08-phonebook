@@ -14,7 +14,7 @@ import './contacts.css';
 function Contacts(props) {
   useEffect(() => {
     props.getDataFromDB();
-  });
+  }, [props]);
 
   return (
     <>

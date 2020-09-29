@@ -70,7 +70,7 @@ export const logOut = param => async (dispatch, getstate) => {
 
     token.unset();
     dispatch(logoutUserSuccess());
-    // localStorage.setItem('tokenLocal', '');
+    localStorage.setItem('tokenLocal', '');
   } catch (error) {
     dispatch(logoutUserError(error));
   }
